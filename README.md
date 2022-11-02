@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LionKetty-UD
 - 👀 I’m interested in Codeing && Programming 👨‍💻
-- 🌱 I’m currently learning Electronics and Communications 
+- 🌱 I’m currently learning Python & Pyrogram C Programming 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me [On Telegram 😪](https://telegram.dog/LionKettyUD)
 
