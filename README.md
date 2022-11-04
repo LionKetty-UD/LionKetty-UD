@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Python & Pyrogram C Programming 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me [On Telegram 😪](https://telegram.dog/LionKettyUD)
-- <img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
+- [![image](https://user-images.githubusercontent.com/116444594/199963308-93c4518f-de05-44cb-80f5-a547790717ad.png)
+](https://www.instagram.com/lionkettyud/)
 <!---
 LionKetty-UD/LionKetty-UD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
